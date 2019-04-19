@@ -79,5 +79,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repo:https://zhaoqixing.github.io/zqx.github.io
+  repo:https://github.com/zhaoqixing/zqx.github.io.git
         
